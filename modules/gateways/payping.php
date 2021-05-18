@@ -3,6 +3,7 @@
  - Author : GoldenSource.iR 
  - Module Designed For The : payping.ir
  - Mail : Mail@GoldenSource.ir
+ - This Modules is Dedicated written for PayPing and You will be dealt with in case of copying.
 */
 use WHMCS\Database\Capsule;
 if(isset($_REQUEST['invoiceId']) && is_numeric($_REQUEST['invoiceId'])){
